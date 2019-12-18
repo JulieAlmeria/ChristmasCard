@@ -6,6 +6,8 @@ overflow: hidden;
 font-family: 'Lobster Two', cursive;
 }
 h2{
+  margin-top: 20%;
+  margin-bottom:20%;
   text-align: center;
   left: 50%;
   position: absolute;
