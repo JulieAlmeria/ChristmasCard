@@ -4,7 +4,7 @@ background-color: hsla(0,0%,0%,1);
 margin: 0px;
 overflow: hidden;
 font-family: 'Lobster Two', cursive;
-  overflow: auto;
+  overflow: scroll;
 }
 h2{
   margin-top: 10%;
@@ -20,7 +20,7 @@ h2{
   border-radius: 20px;
   border-style: groove;
   padding: 10px;
-  overflow: auto;
+  overflow: scroll;
 
 
 }
@@ -30,5 +30,5 @@ h2{
     margin-bottom:20%;
     margin-right:20%;
     margin-left:20%;
-    overflow:auto;
+    overflow:scroll;
 }
