@@ -2,7 +2,7 @@
 body{
 background-color: hsla(0,0%,0%,1);
 margin: 0px;
-overflow: hidden;
+
 font-family: 'Lobster Two', cursive;
   overflow: scroll;
 }
